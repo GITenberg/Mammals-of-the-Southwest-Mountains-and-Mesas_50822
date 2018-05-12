@@ -1,15 +1,21 @@
 _repo: Mammals-of-the-Southwest-Mountains-and-Mesas_50822
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Bierly, Edward
     gutenberg_agent_id: '46101'
     url: http://www.gutenberg.org/2009/agents/46101
+covers:
+- cover_type: archival
+  image_path: 50822-h/images/bcover.jpg
 creator:
   author:
     agent_name: Olin, George Joyce
     gutenberg_agent_id: '46100'
     url: http://www.gutenberg.org/2009/agents/46100
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50822#Mammals-of-the-Southwest-Mountains-and-Mesas
 gutenberg_issued: '2016-01-01'
 gutenberg_type: Text
 identifiers:
